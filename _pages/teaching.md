@@ -7,6 +7,6 @@ permalink: /teaching/
 |--------------|-----------------|--------|--------|
 | TA: Masters in Economics Thesis  | Barcelona School of Economics | Master | 2023-2024   |
 | TA: Masters in Finance Thesis  | Barcelona School of Economics | Master | 2023-2024   |
-| Introduction to programming in R  | Barcelona School of Economics | Master | 2023-2024   |
+| Lecturer: Introduction to programming in R  | Barcelona School of Economics | Master | 2023-2024   |
 | TA: Masters in Economics Thesis  | Barcelona School of Economics | Master | 2022-2023   |
 | TA: Introduction to programming in R  | Barcelona School of Economics | Master | 2022-2023   |
