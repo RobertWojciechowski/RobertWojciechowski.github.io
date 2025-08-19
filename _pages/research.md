@@ -1,6 +1,5 @@
 ---
 layout: single
-permalink: /research/
 title: ""
 ---
 
@@ -24,6 +23,7 @@ Co-authors: Alessandro De Sanctis, Daniel Kapp, Francesca Vinci Romana
 This study evaluates the effectiveness of EU Cohesion Policy as an investment programme,  employing a novel dataset that links firm-level data from Orbis with project-level information from the Kohesio database. It focuses on two key questions: (1) Which firms receive EU funding? (2) How does receiving EU funding affect firm performance? By applying a logit model and a local projection difference-in-differences approach, we provide new insights into the allocation mechanisms of EU Cohesion Policy funds and their firm-level impact. Our findings show that funding tends to be allocated to firms that already perform relatively well, and that firms receiving EU funding experience a persistent productivity increase of approximately 3% after 4 years, with smaller and more financially constrained firms experiencing relatively greater improvements. Moreover, funding targeting SME investment tends to enhance firm performance disproportionately more than other categories, whereas projects directed the green transition appear comparatively less beneficial.
   
 </div>
+
 
 # Work in Progress
 
