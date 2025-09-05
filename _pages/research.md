@@ -15,6 +15,7 @@ I introduce generalized quantile local projections (GQLP), a novel methodology f
   
 </div>
 
+<br><br>
 # Working Papers
 
 
@@ -28,7 +29,7 @@ This study evaluates the effectiveness of EU Cohesion Policy as an investment pr
   
 </div>
 
-
+<br><br>
 # Work in Progress
 
 ## New Stylised facts on Firm and Productivity Dynamics
