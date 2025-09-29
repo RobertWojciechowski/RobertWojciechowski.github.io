@@ -99,11 +99,32 @@ ninja.data = [{
           window.open("mailto:%72%6F%62%65%72%74.%77%6F%6A%63%69%65%63%68%6F%77%73%6B%69@%75%70%66.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/robert-wojciechowski-4a087111b", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0004-6431-1876", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=t74ubOkAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.upf.edu/en/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/wojciechowski-robert/maximized", "_blank");
         },
       },{
         id: 'social-x',
