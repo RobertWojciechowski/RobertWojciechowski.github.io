@@ -258,8 +258,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Wojciechowski]
+  first_name: [Robert, R.]
 
   style: apa
   locale: en
@@ -307,11 +307,11 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
-    #pdf,
+    pdf,
     poster,
     preview,
     selected,
-    #slides,
+    slides,
     supp,
     video,
     website,
