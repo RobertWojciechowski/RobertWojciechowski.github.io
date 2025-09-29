@@ -2,96 +2,113 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Robert Wojciechowski
+    - name: Email
+      value: robert.wojciechowski@upf.edu
+    - name: Nationality
+      value: Polish and American
     - name: Languages
-      value: English, German
+      value: Polish (C2), English (C2), Spanish (C1), Catalan (A2)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Economics
+      institution: Universitat Pompeu Fabra, Barcelona, Spain
+      year: 2021 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advised by prof. Christian Brownlees and prof. Andrea Caggese.
+        - Developing and applying novel econometric methodologies for causal identification in macroeconomics.
+    - title: MRes in Economics, Finance and Management
+      institution: Universitat Pompeu Fabra, Barcelona, Spain
+      year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - GPA 8.97/10
+        - Advised by prof. Christian Brownlees.
+    - title: MSc in Economics
+      institution: Barcelona School of Economics, Barcelona, Spain
+      year: 2019 - 2020
+      description:
+        - GPA 7.60/10
+        - Advised by prof. Manuel García-Santana.
+    - title: BSc with Honours in Economics, Politics and International Studies
+      institution: University of Warwick, Coventry, UK
+      year: 2014 - 2017
+      description:
+        - First Class
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: International Relations Analyst
+      institution: European Central Bank, DG International & European Relations, Frankfurt am Main, Germany
+      year: Fall 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Short-term appointment to perform analytical work studying the effects of European investment programs on firms' productivity.
+    - title: Research Assistant
+      institution: Universitat Pompeu Fabra, Barcelona, Spain
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Research assistant for prof. Andrea Caggese under financing from a European Investment Bank grant.
+        - Performed the empirical analysis for "Climate Change, Misallocation and Macroeconomic Implications".
+    - title: Associate Consultant
+      institution: Whiteshield, London, UK
+      year: Summer 2020
       description:
+        - Associate consultant for a book titled "Quantum Governance Rewiring the Foundation of Public Policy".
+    - title: Trader Assistant
+      institution: J.P. Morgan, Equity Exotics (Volatility Trading), London, UK
+      year: 2018 - 2019
+    - title: Deal Coordinator
+      institution: J.P. Morgan, Structured Credit (Special Purpose Vehicles), London, UK
+      year: 2017 - 2018
+    - title: Summer Internship Program
+      institution: J.P. Morgan, London, UK
+      year: Summer 2016
+    - title: International Economic Relations and Global Issues Program
+      institution: Polish Institute of International Affairs, Warsaw, Poland
+      year: Summer 2015
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Lecturer
+      institution: Barcelona School of Economics, Barcelona, Spain
+      year: 2022 - 2024
+      description:
+        - Intro to programming in R
+    - title: Teaching Assistant
+      institution: Barcelona School of Economics, Barcelona, Spain
+      year: 2022 - 2024
+      description:
+        - MSc in Economics thesis
+        - MSc in Finance thesis
+
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - (upcoming) Center for Economic Policy Research Paris Symposium
+        - American Economic Association Annual Meeting
+    - year: 2024
+      items:
+        - European Winter Meeting of the Econometric Society
+        - Barcelona School of Economics PhD Jamboree
+    - year: 2023
+      items:
+        - 48th Symposium of the Spanish Economic Association
+        - Barcelona School of Economics PhD Jamboree
+        - EABCN Conference, Advances in Local Projections and Empirical Methods for Central Banking
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: Ongoing
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - "Advances in Econometrics" Pre-Doctoral Researcher Grant – Spanish Ministry of Science and Innovation
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Technical Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "<u>Progra
