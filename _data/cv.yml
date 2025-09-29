@@ -89,7 +89,6 @@
   contents:
     - year: 2025
       items:
-        - (upcoming) Center for Economic Policy Research Paris Symposium
         - American Economic Association Annual Meeting
     - year: 2024
       items:
@@ -111,4 +110,9 @@
 - title: Technical Skills
   type: list
   contents:
-    - "<u>Progra
+    - "<u>Programming:</u> Python, Stata, MATLAB, R, SQL"
+
+- title: Other Interests
+  type: list
+  contents:
+    - "<u>Sports:</u> Competitive swimmer representing Club Natació Atlètic-Barceloneta: medalist at Polish National Championships and Catalan University Championships, finalist at Catalan Championships. 13th overall in London Triathlon 2019 (sprint distance). 22nd overall in Barcelona Triathlon 2022 (sprint distance)."
