@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "RobertWojciechowski/finaltry",
+    "data-repo": "RobertWojciechowski/robertwojciechowski.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
