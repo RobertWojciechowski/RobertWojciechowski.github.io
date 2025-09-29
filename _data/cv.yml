@@ -69,20 +69,6 @@
       institution: Polish Institute of International Affairs, Warsaw, Poland
       year: Summer 2015
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Lecturer
-      institution: Barcelona School of Economics, Barcelona, Spain
-      year: 2022 - 2024
-      description:
-        - Intro to programming in R
-    - title: Teaching Assistant
-      institution: Barcelona School of Economics, Barcelona, Spain
-      year: 2022 - 2024
-      description:
-        - MSc in Economics thesis
-        - MSc in Finance thesis
 
 - title: Conference Presentations
   type: time_table
@@ -107,12 +93,3 @@
       items:
         - Advances in Econometrics – Pre-Doctoral Researcher Grant awarded by the Spanish Ministry of Science and Innovation
 
-- title: Technical Skills
-  type: list
-  contents:
-    - <u>Programming:</u> Python, Stata, MATLAB, R, SQL
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Sports:</u> Competitive swimmer representing Club Natació Atlètic-Barceloneta, medalist at Polish National Championships and Catalan University Championships, finalist at Catalan Championships. 13th overall in London Triathlon 2019 (sprint distance). 22nd overall in Barcelona Triathlon 2022 (sprint distance).
