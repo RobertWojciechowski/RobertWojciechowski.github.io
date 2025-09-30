@@ -7,11 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-| Course       | Institution     | Level  | Year   |
-|--------------|-----------------|--------|--------|
-| TA: Masters in Economics Thesis  | Barcelona School of Economics | Master | 2024-2025   |
-| TA: Masters in Economics Thesis  | Barcelona School of Economics | Master | 2023-2024   |
-| TA: Masters in Finance Thesis  | Barcelona School of Economics | Master | 2023-2024   |
-| Lecturer: Introduction to programming in R  | Barcelona School of Economics | Master | 2023-2024   |
-| TA: Masters in Economics Thesis  | Barcelona School of Economics | Master | 2022-2023   |
-| TA: Introduction to programming in R  | Barcelona School of Economics | Master | 2022-2023   |
+| Role        | Course                                      | Institution                 | Level    | Year       |
+|-------------|--------------------------------------------|----------------------------|----------|------------|
+| TA          | Graduate in Economics Thesis               | Barcelona School of Economics | Graduate | 2024-2025 |
+| TA          | Graduate in Economics Thesis               | Barcelona School of Economics | Graduate | 2023-2024 |
+| TA          | Graduate in Finance Thesis                 | Barcelona School of Economics | Graduate | 2023-2024 |
+| Lecturer    | Introduction to Programming in R          | Barcelona School of Economics | Graduate | 2023-2024 |
+| TA          | Graduate in Economics Thesis               | Barcelona School of Economics | Graduate | 2022-2023 |
+| TA          | Introduction to Programming in R          | Barcelona School of Economics | Graduate | 2022-2023 |
