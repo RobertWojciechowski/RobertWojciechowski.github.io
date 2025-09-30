@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "",
+    "name": "Robert Wojciechowski",
     "label": "PhD in Economics Candidate",
     "image": "",
     "email": "robert.wojciechowski@upf.edu",
     "phone": "",
     "url": "",
-    "summary": "Polish and American",
+    "nationality": "Polish and American",
     "location": {
       "address": "",
       "postalCode": "",
@@ -58,7 +58,7 @@
       "position": "Deal coordinator in structured credit (special purpose vehicles)",
       "url": "",
       "startDate": "2017-09-01",
-      "endDate": "2018-08-01",
+      "endDate": "2018-09-01",
       "summary": "",
       "highlights": []
     },
@@ -66,7 +66,7 @@
       "name": "J.P. Morgan, London, UK",
       "position": "Summer Internship Program",
       "url": "",
-      "startDate": "2016-06-15",
+      "startDate": "2016-07-15",
       "endDate": "2016-09-01",
       "summary": "",
       "highlights": []
@@ -144,13 +144,13 @@
       "name": "Programming",
       "level": "",
       "icon": "",
-      "keywords": ["Python", "Stata", "MATLAB", "R", "SQL"]
+      "keywords": ["Python", "Stata", "MATLAB", "R", "SQL", "Latex"]
     }
   ],
   "languages": [
     {
       "language": "Polish",
-      "fluency": "C2",
+      "fluency": "Native",
       "icon": ""
     },
     {
@@ -183,10 +183,17 @@
     }
   ],
   "references": [],
-  "projects": [
+  "Conference presentations": [
+      {
+      "name": "Centre for Economic Policy Research Paris Symposium",
+      "highlights": [],
+      "note": "upcoming",
+      "startDate": "2025-12-05",
+      "endDate": "2025-12-05",
+      "url": ""
+    },
     {
       "name": "American Economic Association Annual Meeting",
-      "summary": "Conference presentation",
       "highlights": [],
       "startDate": "2025-01-04",
       "endDate": "2025-01-04",
@@ -194,7 +201,6 @@
     },
     {
       "name": "European Winter Meeting of the Econometric Society",
-      "summary": "Conference presentation",
       "highlights": [],
       "startDate": "2024-12-16",
       "endDate": "2024-12-16",
@@ -202,7 +208,6 @@
     },
     {
       "name": "Barcelona School of Economics PhD Jamboree",
-      "summary": "Conference presentation",
       "highlights": [],
       "startDate": "2024-05-01",
       "endDate": "2024-05-01",
@@ -210,7 +215,6 @@
     },
     {
       "name": "48th Symposium of the Spanish Economic Association",
-      "summary": "Conference presentation",
       "highlights": [],
       "startDate": "2023-12-14",
       "endDate": "2023-12-14",
@@ -218,7 +222,6 @@
     },
     {
       "name": "Barcelona School of Economics PhD Jamboree",
-      "summary": "Conference presentation",
       "highlights": [],
       "startDate": "2023-05-11",
       "endDate": "2023-05-11",
@@ -226,7 +229,7 @@
     },
     {
       "name": "EABCN Conference, Advances in Local Projections and Empirical Methods for Central Banking",
-      "summary": "Conference presentation",
+      "note": "Poster presentation",
       "highlights": [],
       "startDate": "2023-09-23",
       "endDate": "2023-09-23",
