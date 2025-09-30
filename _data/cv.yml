@@ -49,8 +49,7 @@
       institution: Universitat Pompeu Fabra, Barcelona, Spain
       year: 2021 - 2024
       description:
-        - Research assistant for prof. Andrea Caggese under financing from a European Investment Bank grant.
-        - Performed the empirical analysis for Climate Change, Misallocation and Macroeconomic Implications.
+        - Research assistant for prof. Andrea Caggese under financing from a European Investment Bank grant. Performed the empirical analysis for Climate Change, Misallocation and Macroeconomic Implications.
     - title: Associate Consultant
       institution: Whiteshield, London, UK
       year: Summer 2020
@@ -69,20 +68,6 @@
       institution: Polish Institute of International Affairs, Warsaw, Poland
       year: Summer 2015
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Lecturer
-      institution: Barcelona School of Economics, Barcelona, Spain
-      year: 2022 - 2024
-      description:
-        - Intro to programming in R
-    - title: Teaching Assistant
-      institution: Barcelona School of Economics, Barcelona, Spain
-      year: 2022 - 2024
-      description:
-        - MSc in Economics thesis
-        - MSc in Finance thesis
 
 - title: Conference Presentations
   type: time_table
@@ -103,14 +88,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: Ongoing
       items:
         - Advances in Econometrics – Pre-Doctoral Researcher Grant awarded by the Spanish Ministry of Science and Innovation
+        - Teaching Fellowship – Universitat Pompeu Fabra
+        - MSc Thesis Distinction – Barcelona School of Economics
+
 
 - title: Technical Skills
   type: list
   contents:
-    - <u>Programming:</u> Python, Stata, MATLAB, R, SQL
+    - <u>Programming:</u> Python, Stata, MATLAB, R, SQL, Latex
 
 - title: Other Interests
   type: list
