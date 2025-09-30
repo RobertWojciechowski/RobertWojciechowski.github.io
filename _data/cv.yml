@@ -44,36 +44,77 @@
       institution: European Central Bank, DG International & European Relations, Frankfurt am Main, Germany
       year: Fall 2024
       description:
-        - Short-term appointment to perform analytical work studying the effects of European investment programs on firms' productivity.
+        - Short-term appointment to perform analytical work studying the effects of European investment programs on firm productivity.
     - title: Research Assistant
       institution: Universitat Pompeu Fabra, Barcelona, Spain
       year: 2021 - 2024
       description:
-        - Research assistant for prof. Andrea Caggese under financing from a European Investment Bank grant. Performed the empirical analysis for Climate Change, Misallocation and Macroeconomic Implications.
+        - Research assistant for Prof. Andrea Caggese under financing from a European Investment Bank grant. Performed the empirical analysis for Climate Change, Misallocation and Macroeconomic Implications.
     - title: Associate Consultant
       institution: Whiteshield, London, UK
       year: Summer 2020
       description:
         - Associate consultant for a book titled Quantum Governance Rewiring the Foundation of Public Policy.
-    - title: Trader Assistant
-      institution: J.P. Morgan, Equity Exotics (Volatility Trading), London, UK
+    - title: Analyst
+      institution: J.P. Morgan, London, UK
       year: 2018 - 2019
-    - title: Deal Coordinator
-      institution: J.P. Morgan, Structured Credit (Special Purpose Vehicles), London, UK
+      description:
+        - Trader Assistant in Equity Exotics (Volatility Trading).
+      institution: J.P. Morgan, London, UK
       year: 2017 - 2018
-    - title: Summer Internship Program
+      description:
+        - Deal coordinator in Structured Credit (Special Purpose Vehicles).
+    - title: Intern
       institution: J.P. Morgan, London, UK
       year: Summer 2016
-    - title: International Economic Relations and Global Issues Program
+      description:
+        - Summer Internship Program.
+    - title: Intern
       institution: Polish Institute of International Affairs, Warsaw, Poland
       year: Summer 2015
+      description:
+        - International Economic Relations and Global Issues Program
 
-
+title: Teaching Experience
+type: time_table
+contents:
+  - title: TA
+    course: Master in Economics Thesis
+    institution: Barcelona School of Economics
+    level: Graduate
+    year: 2024-2025
+  - title: TA
+    course: Master in Economics Thesis
+    institution: Barcelona School of Economics
+    level: Graduate
+    year: 2023-2024
+  - title: TA
+    course: Master in Finance Thesis
+    institution: Barcelona School of Economics
+    level: Graduate
+    year: 2023-2024
+  - title: Lecturer
+    course: Introduction to Programming in R
+    institution: Barcelona School of Economics
+    level: Graduate
+    year: 2023-2024
+  - title: TA
+    course: Master in Economics Thesis
+    institution: Barcelona School of Economics
+    level: Graduate
+    year: 2022-2023
+  - title: TA
+    course: Introduction to Programming in R
+    institution: Barcelona School of Economics
+    level: Graduate
+    year: 2022-2023
+    
 - title: Conference Presentations
   type: time_table
   contents:
     - year: 2025
       items:
+        - (upcoming) Centre for Economic Policy Research Paris Symposium 
         - American Economic Association Annual Meeting
     - year: 2024
       items:
@@ -102,4 +143,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Sports:</u> Competitive swimmer representing Club Natació Atlètic-Barceloneta, medalist at Polish National Championships and Catalan University Championships, finalist at Catalan Championships. 13th overall in London Triathlon 2019 (sprint distance). 22nd overall in Barcelona Triathlon 2022 (sprint distance).
+    - <u>Sports:</u> Competitive swimmer representing Club Natació Atlètic-Barceloneta, medalist at Polish National Championships and Catalan University Championships, finalist at Catalan Elite Championships. Amateur triathlete; 13th overall in London Triathlon 2019 (sprint distance). 22nd overall in Barcelona Triathlon 2022 (sprint distance).
