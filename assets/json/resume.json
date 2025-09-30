@@ -17,9 +17,19 @@
     "profiles": []
   },
   "work": [
+  {
+      "name": "European Central Bank, Frankfurt am Main, Germany",
+      "position": "External Academic Consultant"
+      "summary": "Provided academic consulting services for DG International & European Relations.",
+      "url": "",
+      "startDate": "2025-02-15",
+      "endDate": "2025-06-01",
+      "highlights": []
+    },
     {
       "name": "European Central Bank, Frankfurt am Main, Germany",
-      "position": "International Relations Analyst in DG International & European Relations. Short-term appointment to perform analytical work studying the effects of European investment programs on firms' productivity.",
+      "position": "International Relations Analyst in DG International & European Relations"
+      "summary": "Short-term appointment to perform analytical work studying the effects of European investment programs on firms' productivity.",
       "url": "",
       "startDate": "2024-09-15",
       "endDate": "2025-01-01",
@@ -27,7 +37,8 @@
     },
     {
       "name": "Universitat Pompeu Fabra, Barcelona, Spain",
-      "position": "Research assistant for Prof. Andrea Caggese under financing from a European Investment Bank grant. Worked on the empirical analysis for 'Climate Change, Misallocation and Macroeconomic Implications'.",
+      "position": "Research assistant"
+      "summary": "Research assistant for Prof. Andrea Caggese under financing from a European Investment Bank grant. Worked on the empirical analysis for 'Climate Change, Misallocation and Macroeconomic Implications'.",
       "url": "",
       "startDate": "2021-09-01",
       "endDate": "2024-02-01",
@@ -35,7 +46,8 @@
     },
     {
       "name": "Whiteshield, London, UK",
-      "position": "Associate consultant for a book titled 'Quantum Governance: Rewiring the Foundation of Public Policy'.",
+      "position": "Associate consultant","
+      "summary": "Worked on the empirical analysis for a book titled 'Quantum Governance: Rewiring the Foundation of Public Policy'.",
       "url": "",
       "startDate": "2020-06-01",
       "endDate": "2020-08-01",
@@ -43,38 +55,38 @@
     },
     {
       "name": "J.P. Morgan, London, UK",
-      "position": "Trader assistant in equity exotics (volatility trading).",
+      "position": "Analyst",
+      "summary": "Trader assistant in equity exotics (volatility trading).",
       "url": "",
       "startDate": "2018-09-01",
       "endDate": "2019-07-01",
-      "summary": "",
       "highlights": []
     },
     {
       "name": "J.P. Morgan, London, UK",
-      "position": "Deal coordinator in structured credit (special purpose vehicles).",
+      "position": "Analyst",
+      "summary": "Deal coordinator in structured credit (special purpose vehicles).",
       "url": "",
       "startDate": "2017-09-01",
       "endDate": "2018-09-01",
-      "summary": "",
       "highlights": []
     },
     {
       "name": "J.P. Morgan, London, UK",
-      "position": "Summer Internship Program",
+      "position": "Intern",
       "url": "",
       "startDate": "2016-07-15",
       "endDate": "2016-09-01",
-      "summary": "",
+      "summary": "Summer Internship Program",
       "highlights": []
     },
     {
       "name": "Polish Institute of International Affairs, Warsaw, Poland",
-      "position": "International Economic Relations and Global Issues Program",
+      "position": "Intern",
       "url": "",
       "startDate": "2015-07-01",
       "endDate": "2015-08-01",
-      "summary": "",
+      "summary": "International Economic Relations and Global Issues Program",
       "highlights": []
     }
   ],
