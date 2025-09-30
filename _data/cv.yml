@@ -127,7 +127,7 @@ contents:
         - EABCN Conference, Advances in Local Projections and Empirical Methods for Central Banking
 
 - title: Honors and Awards
-  type: time_table
+  type: list
   contents:
       items:
         - Advances in Econometrics – Pre-Doctoral Researcher Grant awarded by the Spanish Ministry of Science and Innovation
@@ -135,12 +135,13 @@ contents:
         - MSc Thesis Distinction – Barcelona School of Economics
 
 
-- title: Technical Skills
+- title: Programming Skills
   type: list
   contents:
-    - <u>Programming:</u> Python, Stata, MATLAB, R, SQL, Latex
+    - Python, Stata, MATLAB, R, SQL, Latex
 
-- title: Other Interests
+- title: Sports
   type: list
   contents:
-    - <u>Sports:</u> Competitive swimmer representing Club Natació Atlètic-Barceloneta, medalist at Polish National Championships and Catalan University Championships, finalist at Catalan Elite Championships. Amateur triathlete; 13th overall in London Triathlon 2019 (sprint distance). 22nd overall in Barcelona Triathlon 2022 (sprint distance).
+    - Competitive swimmer representing Club Natació Atlètic-Barceloneta, medalist at Polish National Championships and Catalan University Championships, finalist at Catalan Elite Championships. 
+    - Amateur triathlete; 13th overall in London Triathlon 2019 (sprint distance), 22nd overall in Barcelona Triathlon 2022 (sprint distance).
