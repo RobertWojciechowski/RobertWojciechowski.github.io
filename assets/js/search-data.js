@@ -110,7 +110,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0009-0004-6431-1876", "_blank");
+          window.open("https://orcid.org/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -124,7 +124,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.upf.edu/en/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/wojciechowski-robert/maximized", "_blank");
+          window.open("", "_blank");
         },
       },{
         id: 'social-x',
