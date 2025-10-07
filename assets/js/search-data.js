@@ -106,25 +106,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/robert-wojciechowski-4a087111b", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=t74ubOkAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-work',
-        title: 'Work',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
         },
       },{
         id: 'social-x',
