@@ -20,6 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD candidate in Economics at Universitat Pompeu Fabra (UPF) and Barcelona School of Economics (BSE). My  advisors are [Prof. Christian Brownlees](https://ctbrownlees.github.io/) and [Prof. Andrea Caggese](https://andreacaggese.weebly.com/). 
 
-My research lies at the intersection of econometrics and macroeconomics, with a focus on developing and applying causal inference methods to macroeconomic questions. I specialize in the potential outcomes framework, quantile regression, local projections, and difference-in-differences. My work explores topics such as growth-at-risk, firm dynamics, and public policy evaluation.
-
+My research lies at the intersection of econometrics and macroeconomics, with a focus on developing and applying
+causal inference methods to macroeconomic questions. I specialise in the potential outcomes framework, quantile
+regression, local projections, and difference-in-differences. My work explores topics such as growth-at-risk, firm
+dynamics, and public policy evaluation.
 
